@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "dad8",
+      "name": "Ofelya",
+      "surname": "Karapetyan",
+      "salary": 900000
+    },
+    {
+      "id": "5e0c",
+      "name": "Gohar ",
+      "surname": "Asatryan",
+      "salary": "30000"
+    },
+    {
+      "id": "3a54",
+      "name": "Manan",
+      "surname": "Tovmasyan",
+      "salary": 850000
+    }
+  ]
+}
